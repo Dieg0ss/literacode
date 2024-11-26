@@ -17,8 +17,6 @@
 - **PostgreSQL**: Banco de dados relacional para persistência de dados.
 - **Gutendex API**: API externa para pesquisa de livros e autores.
 
-## Como executar ⚙️
-
 ## Pré-requisitos ✅
 
 - Java 17 ou superior
