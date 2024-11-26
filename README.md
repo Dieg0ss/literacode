@@ -50,6 +50,8 @@ Este projeto é um challenge proposto pelo programa Oracle Next Generation (ONE)
 
 <div align="center">
 <img src="images/octocat-1730031841473.png" alt="Octocat" width="350" />
+<img src="images/badge-literalura.png" alt="badge" width="200" />
+
 
 ### Diego Sousa ☕︎
 
