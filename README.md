@@ -19,13 +19,13 @@
 
 ## Como executar ⚙️
 
-### Pré-requisitos ✅
+## Pré-requisitos ✅
 
 - Java 17 ou superior
 - Maven
 - PostgreSQL configurado com um banco de dados para persistência
 
-### Passos para rodar o projeto 🔃
+## Passos para rodar o projeto 🔃
 
 1. **Clone o repositório**:
    ```bash
@@ -41,6 +41,19 @@
    ./mvnw spring-boot:run
 5. **Acesse a aplicação:** O servidor estará rodando na porta padrão 8080. Acesse a aplicação via console para interagir com as opções disponíveis.
 
-### Observações 📌 
+## Observações 📌 
 
 Este projeto é um challenge proposto pelo programa Oracle Next Generation (ONE), que tem como objetivo avaliar conhecimentos em Java, orientação a objetos, consumo de API, uso do SpringBoot e banco de dados relacional.
+
+
+## Desenvolvido por:
+
+<div align="center">
+<img src="images/octocat-1730031841473.png" alt="Octocat" width="350" />
+
+### Diego Sousa ☕︎
+
+</div>
+
+
+
